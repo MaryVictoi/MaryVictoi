@@ -38,3 +38,19 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba, focad
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    height="200"
+  />
+
+  <img
+    src="./profile/top-langs.svg"
+    alt="Tecnologias mais utilizadas"
+    height="200"
+  />
+</p>
+
