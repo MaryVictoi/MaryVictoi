@@ -41,6 +41,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba, focad
   <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
   <img src="./profile/top-langs.svg" alt="Tecnologias mais utilizadas" width="48%" />
 </p>
-  />
+
+## Como me encontrar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-vitoria-moraes-597a2b287/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.v.moraes@edu.senai.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991728796)
 </p>
 
