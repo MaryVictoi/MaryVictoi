@@ -27,6 +27,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba, focad
   <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="AWS" title="AWS" width="40" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
+  <img alt="MCP" title="MCP" width="40" src="https://img.icons8.com/?size=100&id=pUf6Ty49x4KC&format=png&color=000000" />
+  <img alt="Java" title="Java" width="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 </p>
 
 - 🌐 **Desenvolvimento Web:** HTML5, CSS3, Git & GitHub
